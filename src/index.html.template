@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Talks Event</title>
+  <!-- CSS will be injected here -->
+  <style>
+    <!--INJECT_CSS_HERE-->
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Tech Talks Event</h1>
+      <p>Thursday, April 30, 2026</p>
+    </header>
+
+    <section class="search-container">
+      <label for="category-search">Search by Category:</label>
+      <input type="text" id="category-search" placeholder="e.g., AI, Cloud, Frontend">
+    </section>
+
+    <section id="schedule-grid" class="schedule-grid">
+      <!-- Schedule will be dynamically generated here -->
+    </section>
+  </div>
+
+  <!-- JavaScript will be injected here -->
+  <script>
+    <!--INJECT_JAVASCRIPT_HERE-->
+  </script>
+</body>
+</html>

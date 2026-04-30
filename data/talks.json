@@ -1,0 +1,44 @@
+[
+  {
+    "id": "talk1",
+    "title": "The Future of AI in Healthcare",
+    "speakers": ["Dr. Anya Sharma"],
+    "category": ["AI", "Healthcare", "Innovation"],
+    "description": "Exploring how artificial intelligence is revolutionizing diagnostics, treatment plans, and patient care."
+  },
+  {
+    "id": "talk2",
+    "title": "Sustainable Software Development",
+    "speakers": ["Mark Jensen", "Sarah Lee"],
+    "category": ["Sustainability", "Software Engineering", "Best Practices"],
+    "description": "Strategies for building eco-friendly applications and reducing carbon footprints in software."
+  },
+  {
+    "id": "talk3",
+    "title": "Mastering Cloud-Native Architectures",
+    "speakers": ["Emily Chen"],
+    "category": ["Cloud", "DevOps", "Architecture"],
+    "description": "A deep dive into designing and deploying resilient, scalable applications using cloud-native principles."
+  },
+  {
+    "id": "talk4",
+    "title": "Quantum Computing for Beginners",
+    "speakers": ["Dr. Ben Carter"],
+    "category": ["Quantum", "Emerging Tech", "Fundamentals"],
+    "description": "An accessible introduction to the basics of quantum computing and its potential impact."
+  },
+  {
+    "id": "talk5",
+    "title": "Cybersecurity in the Age of AI",
+    "speakers": ["Alex Rodriguez"],
+    "category": ["Cybersecurity", "AI", "Threats"],
+    "description": "Understanding new cybersecurity challenges and defenses arising from advanced AI systems."
+  },
+  {
+    "id": "talk6",
+    "title": "Building Interactive UIs with Web Components",
+    "speakers": ["Jessica Wong"],
+    "category": ["Frontend", "Web Development", "UI/UX"],
+    "description": "Learn how to create reusable and encapsulated UI components for modern web applications."
+  }
+]

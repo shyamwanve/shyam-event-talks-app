@@ -1,0 +1,12 @@
+{
+  "name": "event-website-generator",
+  "version": "1.0.0",
+  "description": "Generates a single-page HTML website for a tech talks event.",
+  "main": "generate-site.js",
+  "scripts": {
+    "generate": "node generate-site.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
